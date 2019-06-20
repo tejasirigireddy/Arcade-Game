@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+#score {
+  font-size: 400;
+  font-weight: bold;
+}
+
+* {
+  font-style: italic;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+}
+
+h3 {
+  color: #1a1a1a;
+}
