@@ -52,4 +52,5 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 -   I implemented two levels in this game.
 -   The popup is displayed by using the sweetalert2, if the score is fifteen and it displays the message like `You completed the first level` and the background color is changed.
 -   Again the popup is displayed if the score is thirty and displays the message like `You completed the second level` and the background color is changed.
+- The game is finished when the player completed the second level. If you want to restart click on `restart` button. 
 -   Finally, I suggested the player try to reach the watermark without touching the bug.
